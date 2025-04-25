@@ -1,3 +1,8 @@
+
 This is a developer 1 file
 this is a text file for developer 1
 person is walking in outside the chitkara uni.
+
+This is a new file for developer 2
+this is a text file for dev2
+person is walking inside the chitkara uni .
