@@ -1,3 +1,3 @@
-This is a new file
-this is a text file
-person is walking in outside .
+This is a developer 1 file
+this is a text file for developer 1
+person is walking in outside the chitkara uni.
